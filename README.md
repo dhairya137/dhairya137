@@ -2,7 +2,7 @@
 
 <!-- **dhairya137/dhairya137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- It's Dhairya, Fullstack developer from Gujarat, India
+I am Dhairya, Fullstack developer from Gujarat, India
 
 - 🔭 I’m currently working on ... Nextjs
 - 🌱 I’m currently learning ... Nextjs Strapi
