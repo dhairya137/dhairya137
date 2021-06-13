@@ -4,9 +4,9 @@
 
 I am Dhairya, Fullstack developer from Gujarat, India
 
-- 🔭 I’m currently working on ... Nextjs
-- 🌱 I’m currently learning ... Nextjs Strapi
-- 🤔 I’m looking for help with ... Nextjs
+- 🔭 I’m currently working on ... Django
+- 🌱 I’m currently learning ... Django
+- 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Web Development
 - 📫 How to reach me: [twitter]
 - 😄 Pronouns: He/His
