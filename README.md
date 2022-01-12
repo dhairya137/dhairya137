@@ -4,10 +4,10 @@
 
 I am Dhairya, Fullstack developer from Gujarat, India
 
-- 🔭 I’m currently working on ... Django
-- 🌱 I’m currently learning ... Django
-- 🤔 I’m looking for help with ... Django
-- 💬 Ask me about ... Web Development
+- 🔭 I’m currently working on ... DevOps
+- 🌱 I’m currently learning ... Kubernetes
+- 🤔 I’m looking for help with ... Kubernetes
+- 💬 Ask me about ... DevOps
 - 📫 How to reach me: [twitter]
 - 😄 Pronouns: He/His
 
