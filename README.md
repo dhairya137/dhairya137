@@ -45,6 +45,7 @@ I am Dhairya, Fullstack developer from Gujarat, India
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Why Docker is Essential for Modern DevOps Practices](https://blog.dhairyapatel.in/why-docker-is-essential-for-modern-devops-practices)
 <!-- HASHNODE:END -->
 
 ### GitHub Stats
