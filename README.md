@@ -49,5 +49,9 @@ I am Dhairya, Fullstack developer from Gujarat, India
 [website]: https://dhairya.xyz
 [twitter]: https://twitter.com/dp_137
 [instagram]: https://instagram.com/dhairya137
+[linkedin]: https://linkedin.com/in/dhairya](https://www.linkedin.com/in/dhairya-patel-760388191/
 
-<!-- [linkedin]: https://linkedin.com/in/dhairya -->
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
