@@ -9,7 +9,7 @@ I am Dhairya, Fullstack developer from Gujarat, India
 - 🤔 I’m looking for help with ... Kubernetes
 - 💬 Ask me about ... DevOps
 - 📫 How to reach me: [twitter]
-- 😄 Pronouns: He/His
+- 😄 Visit <a href="https://dhairyapatel.in" target="_blank"> Here </a>
 
 ### Here you can find me
 
@@ -42,6 +42,11 @@ I am Dhairya, Fullstack developer from Gujarat, India
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
 ### GitHub Stats
 
 <img align="left" alt="Dhairya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhairya137&show_icons=true&theme=light&line_height=27" />
@@ -51,7 +56,4 @@ I am Dhairya, Fullstack developer from Gujarat, India
 [instagram]: https://instagram.com/dhairya137
 [linkedin]: https://linkedin.com/in/dhairya](https://www.linkedin.com/in/dhairya-patel-760388191/
 
-## Hashnode Blog Post
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
 
