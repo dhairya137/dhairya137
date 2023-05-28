@@ -45,7 +45,8 @@ I am Dhairya, Fullstack developer from Gujarat, India
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
-- [Implementing CI/CD with GitHub Actions: A Comprehensive Beginner&#39;s Guide: CI Part](https://blog.dhairyapatel.in/implementing-cicd-with-github-actions-a-comprehensive-beginners-guide-ci-part)
+- [Implementing CI/CD with GitHub Actions: A Comprehensive Beginner&#39;s Guide: Part 2](https://blog.dhairyapatel.in/implementing-cicd-with-github-actions-a-comprehensive-beginners-guide-part-2)
+- [Implementing CI/CD with GitHub Actions: A Comprehensive Beginner&#39;s Guide: Part 1](https://blog.dhairyapatel.in/implementing-cicd-with-github-actions-a-comprehensive-beginners-guide-part-1)
 - [Why Docker is Essential for Modern DevOps Practices](https://blog.dhairyapatel.in/why-docker-is-essential-for-modern-devops-practices)
 <!-- HASHNODE:END -->
 
