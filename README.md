@@ -45,6 +45,7 @@ I am Dhairya, Fullstack developer from Gujarat, India
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Deploying a Django WebSocket Application with Uvicorn, Nginx, and PostgreSQL](https://blog.dhairyapatel.in/deploying-a-django-websocket-application-with-uvicorn-nginx-and-postgresql)
 - [Achieving Zero-Downtime Live Migration for Stateful Workloads with Drafter: An In-Depth Guide](https://blog.dhairyapatel.in/achieving-zero-downtime-live-migration-for-stateful-workloads-with-drafter-an-in-depth-guide)
 - [Implementing CI/CD with GitHub Actions: A Comprehensive Beginner&#39;s Guide: Part 2](https://blog.dhairyapatel.in/implementing-cicd-with-github-actions-a-comprehensive-beginners-guide-part-2)
 - [Implementing CI/CD with GitHub Actions: A Comprehensive Beginner&#39;s Guide: Part 1](https://blog.dhairyapatel.in/implementing-cicd-with-github-actions-a-comprehensive-beginners-guide-part-1)
